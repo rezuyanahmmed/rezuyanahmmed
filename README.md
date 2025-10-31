@@ -3,11 +3,11 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/sh-hridoy001">
+  <a href="https://github.com/rezuyanahmmed">
     <img src="https://komarev.com/ghpvc/?username=sh-hridoy001&color=blueviolet" alt="Profile Views"/>
   </a>
   <a href="https://github.com/sh-hridoy001?tab=followers">
-    <img src="https://img.shields.io/github/followers/sh-hridoy001?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/rezuyanahmmed?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/profile-banner.gif" alt="Coding gif" width="60%" />
+  <img src="https://github.com/rezuyanahmmed/rezuyanahmmed/blob/main/profile-banner.gif" alt="Coding gif" width="60%" />
 </p>
 
 ---
@@ -42,23 +42,13 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=py" title="Python" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java" title="Java" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=clion" title="CLion" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=ai" title="Adobe Illustrator" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=ps" title="Adobe Photoshop" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="48" height="48"/>
 </div>
 
 
@@ -67,14 +57,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/sh-hridoy001/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sh-hridoy001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats"/>
+  <a href="https://github.com/rezuyanahmmed/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rezuyanahmmed&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh-hridoy001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-hridoy001&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rezuyanahmmed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezuyanahmmed&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
 ---
@@ -83,10 +73,10 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="mailto:sazzadhossainhridoy961@gmail.com">
+  <a href="mailto:rafiahmmed457@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/sh-hridoy001">
+  <a href="https://github.com/rezuyanahmmed">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/YourLinkedIn/">
