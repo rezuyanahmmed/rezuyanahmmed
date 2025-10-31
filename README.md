@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/rezuyanahmmed">
-    <img src="https://komarev.com/ghpvc/?username=sh-hridoy001&color=blueviolet" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=rezuyanahmmed&color=blueviolet" alt="Profile Views"/>
   </a>
   <a href="https://github.com/rezuyanahmmed?tab=followers">
     <img src="https://img.shields.io/github/followers/rezuyanahmmed?label=Followers&style=social" alt="GitHub Followers"/>
