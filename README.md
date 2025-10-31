@@ -6,7 +6,7 @@
   <a href="https://github.com/rezuyanahmmed">
     <img src="https://komarev.com/ghpvc/?username=sh-hridoy001&color=blueviolet" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/sh-hridoy001?tab=followers">
+  <a href="https://github.com/rezuyanahmmed?tab=followers">
     <img src="https://img.shields.io/github/followers/rezuyanahmmed?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
 </p>
@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+SH+Hridoy;Frontend+Developer;Always+Learning+New+Techs" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Rezuyan+Ahmmed;Always+Learning+Python" />
 </div>
 
 <p align="center">
@@ -30,7 +30,6 @@
 
 - 🎓 Diploma in Computer Science – Bangladesh Sweden Polytechnic Institute  
 - 🔭 Currently working on: Smart portfolio site & real-world frontend projects  
-- 🌱 Learning: Backend, Competitive Programming (C++)  
 - 🎯 Goal: Become a Full-Stack Developer & contribute to open source  
 - ⚡ Fun fact: I love solving problems on Codeforces & exploring new tech  
 
@@ -69,7 +68,6 @@
 
 ---
 
----
 ## 🔗 Connect With Me
 
 <div align="center">
