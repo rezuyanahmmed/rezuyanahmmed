@@ -29,9 +29,6 @@
 
 
 - 🎓 Diploma in Computer Science – Bangladesh Sweden Polytechnic Institute  
-- 🔭 Currently working on: Smart portfolio site & real-world frontend projects  
-- 🎯 Goal: Become a Full-Stack Developer & contribute to open source  
-- ⚡ Fun fact: I love solving problems on Codeforces & exploring new tech  
 
 
 ---
