@@ -49,10 +49,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 <p align="center">
   <a href="https://github.com/rezuyanahmmed">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=rezuyanahmmed&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats" />
