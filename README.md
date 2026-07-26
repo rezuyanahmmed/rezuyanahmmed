@@ -49,15 +49,17 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/rezuyanahmmed/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rezuyanahmmed&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats"/>
+  <a href="https://github.com/rezuyanahmmed">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rizuyanahmmed&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezuyanahmmed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezuyanahmmed&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rizuyanahmmed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizuyanahmmed&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
