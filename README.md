@@ -3,11 +3,11 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/rizuyanahmmed">
-    <img src="https://komarev.com/ghpvc/?username=rizuyanahmmed&color=blueviolet" alt="Profile Views"/>
+  <a href="https://github.com/rezuyanahmmed">
+    <img src="https://komarev.com/ghpvc/?username=rezuyanahmmed&color=blueviolet" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/rizuyanahmmed?tab=followers">
-    <img src="https://img.shields.io/github/followers/rizuyanahmmed?label=Followers&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/rezuyanahmmed?tab=followers">
+    <img src="https://img.shields.io/github/followers/rezuyanahmmed?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/rizuyanahmmed/rizuyanahmmed/blob/main/profile-banner.gif" alt="Coding gif" width="60%" />
+  <img src="https://github.com/rezuyanahmmed/rezuyanahmmed/blob/main/profile-banner.gif" alt="Coding gif" width="60%" />
 </p>
 
 ---
@@ -27,14 +27,11 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+### 🙋‍♂️ About Me
 - 🎓 **Education:** Diploma in Computer Science & Technology - Bangladesh Sweden Polytechnic Institute
 - 🔭 **Current Focus:** Working on MERN Stack Projects and Web Development
 - 🌱 **Currently Learning:** Exploring Next.js and Advanced React Ecosystem
 - 💬 **Ask me about:** JavaScript, React, and Frontend UI Design
-
-<br clear="right"/>
-
----
 
 ## 🚀 Technologies & Tools
 
@@ -65,15 +62,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizuyanahmmed&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
   <a href="mailto:rafiahmmed457@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/rizuyanahmmed">
+  <a href="https://github.com/rezuyanahmmed">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/YourLinkedIn/">
